@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌑 Who Am I?
 Frontend developer building modern web applications with TypeScript and React.<br><br>Interested in software architecture, clean code, UI engineering, and creating products that people genuinely enjoy using.<br><br>Currently expanding into backend development, system design, and AI engineering.
 
 
@@ -23,6 +23,3 @@ Frontend developer building modern web applications with TypeScript and React.<b
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/darigan) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
