@@ -12,12 +12,6 @@ Frontend developer building modern web applications with TypeScript and React.<b
 ![](https://streak-stats.demolab.com/?user=idarigan&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=idarigan&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=idarigan&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=idarigan&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=idarigan&icon=3&color=6)](https://visitcount.itsvg.in)
 
