@@ -1,5 +1,5 @@
 # 🌑 Who Am I?
-Frontend developer building modern web applications with TypeScript and React.<br><br>Interested in software architecture, clean code, UI engineering, and creating products that people genuinely enjoy using.<br><br>Currently expanding into backend development, system design, and AI engineering.
+Frontend developer building modern web applications with TypeScript and React.<br><br>Interested in software architecture, clean code, UI engineering, and creating products that people genuinely enjoy using.<br><br>Currently expanding into backend development, system design, and AI engineering...
 
 
 ## 🌐 Socials:
